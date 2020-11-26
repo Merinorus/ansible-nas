@@ -4,6 +4,7 @@ site
 roles
 *.retry
 *.log
+.private_key
 
 # Vim
 [._]sw[a-p]
